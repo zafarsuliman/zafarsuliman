@@ -1,38 +1,41 @@
 # Hi, I'm Zafar Suliman
 
-Final-year BCom Informatics student focused on building practical systems that connect software engineering, data and business operations.
+Final-year BCom Informatics student at the University of Pretoria, focused on practical systems that connect software engineering, data and business operations. My expected programme completion is November 2026; formal degree award is still pending.
 
-## Featured work
+## Featured projects
 
-### Clipfarm
-A Python video-processing and editorial automation pipeline with semantic discovery, candidate scoring, rendering and automated validation.
+### [PhenyoSync WMS](https://github.com/zafarsuliman/PhenyoSync-WMS)
 
-- Python package architecture and CLI workflows
-- Audio/visual analysis and local-first processing
-- Automated tests, technical documentation and reproducible pipelines
+Team warehouse-management system built with Angular, ASP.NET and SQL Server. I worked as lead developer and team leader across business logic, system design and application functionality.
 
-[View Clipfarm](https://github.com/zafarsuliman/Clipfarm)
+### [Business Intelligence & Analytics Platform](https://github.com/zafarsuliman/business-intelligence-analytics)
 
-### PhenyoSync WMS
-A warehouse management system designed to improve inventory visibility, reduce stock loss and support logistics operations for a fresh-produce business.
+Reproducible synthetic-data pipeline with validation, SQL analytical views, KPIs, Streamlit dashboards, automated tests and documented limitations.
 
-- Angular frontend
-- ASP.NET backend
-- SQL Server data layer
-- Business-focused inventory and logistics workflows
+### [SQL Incident Investigation Lab](https://github.com/zafarsuliman/sql-incident-investigation-lab)
 
-[View PhenyoSync WMS](https://github.com/zafarsuliman/PhenyoSync-WMS)
+Support-engineering practice environment covering ten incident scenarios, transaction-safe investigation, recovery scripts, regression tests and a verified SQL Server Express path for two incidents.
 
-## What I work with
+### [SaaS Integration & Migration Toolkit](https://github.com/zafarsuliman/saas-integration-toolkit)
 
-- **Languages:** Python, C#, SQL, TypeScript and JavaScript
-- **Application development:** Angular, ASP.NET and REST APIs
-- **Data and analytics:** SQL, data pipelines and business intelligence
-- **Cloud and delivery:** Azure, Terraform, Docker, GitHub Actions and automated testing
+Local integration simulator demonstrating API validation, idempotency, retries, quarantine, reconciliation and failure handling. The current test suite reports 98% statement coverage.
 
-## Current focus
+### [Azure Terraform & DevOps Lab](https://github.com/zafarsuliman/azure-terraform-devops-lab)
 
-I am preparing a portfolio of production-minded projects in business intelligence, cloud infrastructure, SaaS integration and incident investigation. Each project is being reviewed for security, reproducibility and clear documentation before publication.
+Tested FastAPI service with Terraform-defined Azure infrastructure, CI security checks and explicit boundaries: no Azure deployment is claimed.
+
+## Applied skills
+
+- **Software development:** Python, C#, SQL, TypeScript, JavaScript, Angular, ASP.NET and REST APIs
+- **Data and BI:** SQL analysis, data validation, KPI development, reproducible pipelines and dashboard reporting
+- **Excel:** formula-driven pricing, commission, variance and operational models using functions including `SUMPRODUCT`, `ROUND`, `COUNTIF`, `IF` and `OR`
+- **Cloud and delivery:** Azure concepts, Terraform, Docker, GitHub Actions and automated testing
+
+I do not currently claim a verified portfolio-specific Power BI file, Power Query, VBA or commercial cloud deployment. Each repository distinguishes verified execution from included but unverified paths.
+
+## Additional work
+
+[Clipfarm](https://github.com/zafarsuliman/Clipfarm) is a Python video-processing and editorial automation project with local-first processing and documented workflows.
 
 ## Connect
 
